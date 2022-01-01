@@ -1,0 +1,6 @@
+- I'm working on representations of meaning and intentions at the system level. I'm a philosopher by training, but I'm hoping to bring some of the ideas I've had to life, or at least get them to compile
+- 👯 I’m looking to collaborate on using partitions to model intentionality (there's a story for how this works, trust me)
+- 🤔 I’m looking for help with programming and ML implementations of the concepts above
+- 💬 Ask me about the specific projects I have in mind
+- 📫 How to reach me: mbroxham at gmail dot com
+- 😄 Pronouns: he/him
